@@ -10,6 +10,6 @@ class Animal {
 }
 
 const duck = new Animal("duck", "quack");
-const duck = null;
+const duck1 = null;
 
 module.exports = duck;
